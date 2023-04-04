@@ -19,7 +19,7 @@ global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴘᴇᴀᴄᴇ ᴍᴅ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
+global.alivepic = 'https://te.legra.ph/file/7cc522af6b9c0aeb8b62d.jpg'
 global.owner = ['0712448370'] //ur owner number
 global.ownername = "CHARITH" //ur owner name
 global.ytname = "ᴘᴇᴀᴄᴇ ᴍᴅ" //ur yt chanel name
@@ -34,20 +34,20 @@ global.premium = ['94712448370'] //ur premium number
 global.botname = 'ᴘᴇᴀᴄᴇ ᴍᴅ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://www.darknero.ga/' //script link
+global.botscript = 'https://wa.me/94712448370' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.packname = "ᴘᴇᴀᴄᴇ ᴍᴅ" //ur sticker watermark packname
+global.author = "ʙʏ ᴄʜᴀʀɪᴛʜ" //ur sticker watermark author
+global.wm = "ᴘᴇᴀᴄᴇ ᴍᴅ ʙʏ ᴄʜᴀʀɪᴛʜ" //ur watermark
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['','!','.','✌','&']
 global.sp = ''
 
 //messages
 global.mess = {
-    success: 'Here you go!',
+    success: 'ᴘᴇᴀᴄᴇ ᴍᴅ ʙʏ ᴄʜᴀʀɪᴛʜ',
     admin: 'This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
